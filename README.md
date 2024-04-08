@@ -1,4 +1,3 @@
-# README.me
 Salut, je suis Enes
 
 🔭 Développeur Fullstack.
@@ -17,4 +16,4 @@ Ruby / Ruby on Rails / Python
 Postgres / Sql
 Heroku / Figma
 Git / Github
-Linux / Windows
+Linux / Windows # README.me
